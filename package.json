@@ -1,0 +1,26 @@
+{
+  "name": "challenge-invisual",
+  "version": "1.0.0",
+  "description": "Resolução do desafio de RPA feito pela invisual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leogsousa/challenge-invisual.git"
+  },
+  "author": "Leo Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leogsousa/challenge-invisual/issues"
+  },
+  "homepage": "https://github.com/leogsousa/challenge-invisual#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "chromedriver": "^110.0.0",
+    "node-xlsx": "^0.21.0",
+    "selenium-webdriver": "^4.8.0",
+    "xlsx": "^0.18.5"
+  }
+}
